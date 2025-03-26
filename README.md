@@ -1,2 +1,13 @@
 # IPL_Management
-The IPL Management System is a PHP &amp; SQL-based web app for managing teams, players, owners, and sponsors with full CRUD operations. It simplifies handling match details, statistics, and franchise data through a user-friendly interface, ensuring efficient IPL database management.
+A PHP & SQL-powered web application for managing the Indian Premier League (IPL) database. This system allows users to perform CRUD (Create, Read, Update, Delete) operations on teams, players, matches, and statistics efficiently.
+
+✨ Features:
+✅ Add, edit, and delete teams & players
+✅ Manage teams & results
+✅ Track player statistics and performance
+✅ User-friendly dashboard for easy data management
+✅ Secure database operations using SQL
+
+💻 Built with PHP, SQL, HTML, CSS, JavaScript
+
+🚀 Perfect for IPL enthusiasts & database management projects!
